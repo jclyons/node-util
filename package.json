@@ -1,8 +1,5 @@
 {
-  "author": {
-    "name": "Joyent",
-    "url": "http://www.joyent.com"
-  },
+  "author": "Joyent",
   "name": "util",
   "description": "Node.JS util module",
   "keywords": [
